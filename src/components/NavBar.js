@@ -15,7 +15,7 @@ class NavBar extends Component {
       <>    
       <nav className="navbar navbar-expand-lg navbar-light">   
       <div className="container">   
-        <Link to="https://vong3432.github.io/wtalk/" className="navbar-brand"><img width="130" height="70" style={{objectFit:"contain"}} src={Logo} alt="logo"/></Link>                
+        <Link to="/" className="navbar-brand"><img width="130" height="70" style={{objectFit:"contain"}} src={Logo} alt="logo"/></Link>                
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
