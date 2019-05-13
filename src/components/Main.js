@@ -20,7 +20,7 @@ class Main extends Component{
     }
 
     getAllPosts = () => {
-        fetch('http://localhost:4000/allposts')
+        fetch('https://jsonstorage.net/api/items/14daec1e-b95e-4608-85dc-ac235836b0eb')
             .then( res => res.json() )
             .then( res => this.setState({
                 posts: res.data
