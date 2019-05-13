@@ -23,10 +23,10 @@ class NavBar extends Component {
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
           <ul className="navbar-nav">
           <li className="nav-item">
-            <NavLink className="nav-link" to="https://vong3432.github.io/wtalk/" activeClassName="active">Home</NavLink>
+            <NavLink className="nav-link" to="/" activeClassName="active">Home</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="https://vong3432.github.io/wtalk/main" activeClassName="active">Main</NavLink>
+            <NavLink className="nav-link" to="/main" activeClassName="active">Main</NavLink>
           </li>                  
   
           </ul>
