@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wtalk/precache-manifest.dd6fdab79616f718a17ba96e178d711f.js"
+  "/wtalk/precache-manifest.dad44fafb00676d395ffb44858d25100.js"
 );
 
 self.addEventListener('message', (event) => {

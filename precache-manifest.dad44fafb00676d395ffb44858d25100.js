@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61e0d64952d70600f98986287fec6f9a",
+    "revision": "d561f3015070fd97c63fcb977fdbb9f3",
     "url": "/wtalk/index.html"
   },
   {
-    "revision": "c9454f8cda2dce3cc643",
+    "revision": "0ed04ed08bd9b368674d",
     "url": "/wtalk/static/css/main.1bd070f5.chunk.css"
   },
   {
-    "revision": "4b7fe784389151ca4ad3",
-    "url": "/wtalk/static/js/2.eaa02052.chunk.js"
+    "revision": "88502ca5d54ba54c5cd5",
+    "url": "/wtalk/static/js/2.029f5b06.chunk.js"
   },
   {
-    "revision": "c9454f8cda2dce3cc643",
-    "url": "/wtalk/static/js/main.7c0372c5.chunk.js"
+    "revision": "0ed04ed08bd9b368674d",
+    "url": "/wtalk/static/js/main.ed0fb7c2.chunk.js"
   },
   {
     "revision": "6d32df35a7aa99c5840b",
