@@ -11,8 +11,8 @@ function App() {
         <NavBar />
 
         <Switch>
-          <Route path="/" exact component={Home}></Route>
-          <Route path="/main" component={Main}></Route>
+          <Route path="https://vong3432.github.io/wtalk/" exact component={Home}></Route>
+          <Route path="https://vong3432.github.io/wtalk/main" component={Main}></Route>
         </Switch>
 
       </div>
