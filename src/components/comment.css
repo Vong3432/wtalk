@@ -1,0 +1,18 @@
+.comment-container
+{
+    display: flex;    
+    flex-flow: column;
+    background: rgba(240, 240, 240, 0.473);
+    margin:10px 0;
+    padding: .7em 1em;
+}
+
+.comment-container .comment--username
+{
+    font-weight: bold;
+}
+
+.comment-container .comment--content
+{
+    
+}
